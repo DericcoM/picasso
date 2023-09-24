@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/picasso/static/css/main.2a1294da.css",
+    "main.js": "/picasso/static/js/main.0fb4a421.js",
+    "static/js/787.0923df3b.chunk.js": "/picasso/static/js/787.0923df3b.chunk.js",
+    "index.html": "/picasso/index.html",
+    "main.2a1294da.css.map": "/picasso/static/css/main.2a1294da.css.map",
+    "main.0fb4a421.js.map": "/picasso/static/js/main.0fb4a421.js.map",
+    "787.0923df3b.chunk.js.map": "/picasso/static/js/787.0923df3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a1294da.css",
+    "static/js/main.0fb4a421.js"
+  ]
+}
